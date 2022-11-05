@@ -4,6 +4,8 @@
 
 ## chapter01
 
+kokowo shuseisitayo ver4
+
 ## chapter02
 
 ## chapter03
